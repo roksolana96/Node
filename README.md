@@ -1,13 +1,11 @@
 # Node
 
+# listContacts - https://ibb.co/F0ZyCPw ;
+# getContactById - https://ibb.co/qYcpyGC ;
+# addContact - https://ibb.co/WV7H90B ;
+# removeContact - https://ibb.co/gds8P92 ;
 
-    # listContacts - https://ibb.co/F0ZyCPw ;
 
-    # getContactById - https://ibb.co/qYcpyGC ;
-
-    # addContact - https://ibb.co/WV7H90B ;
-
-    # removeContact - https://ibb.co/gds8P92 ;
 
 
 Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
