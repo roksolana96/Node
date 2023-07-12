@@ -63,7 +63,7 @@ const removeContact = async (contactId) => {
 //         return null;
 //     }
 
-//     const [index] = {
+//     data[index] = {
 //         id,
 //         name,
 //         email,
